@@ -1,0 +1,15 @@
+C:\Users\Administrador\Downloads\comerciosimple\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Administrador\Downloads\comerciosimple\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Administrador\Downloads\comerciosimple\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Users\Administrador\Downloads\comerciosimple\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\comerciosimple\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\comerciosimple\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Administrador\Downloads\comerciosimple\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\Administrador\Documents\comercio\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Administrador\Documents\comercio\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Administrador\Documents\comercio\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Users\Administrador\Documents\comercio\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\comercio\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\comercio\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Administrador\Documents\comercio\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\Administrador\Documents\comercio\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
